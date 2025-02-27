@@ -1,0 +1,1 @@
+This file shows the use of pull command.
